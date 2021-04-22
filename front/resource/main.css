@@ -1,0 +1,65 @@
+.feed {
+    float: left;
+}
+
+.button_header {
+    float: right;
+    height: auto;
+    resize: horizontal;
+    overflow: auto;
+}
+
+.header_content {
+    clear: both;
+}
+
+.save {
+    background-color: lightblue;
+}
+
+.preview {
+    background-color: gray;
+}
+
+.send {
+    background-color: lightcoral;
+}
+
+.main {
+    clear: both;
+}
+
+.mailbox {
+    width: 50%;
+    
+    float: left;
+    display: block;
+}
+
+.rssbox {
+    float: left;
+    width: 50%;
+}
+
+.footer {
+    clear: both;
+    text-align: center;
+    background-color: lightgray;
+    height: 50px;
+}
+
+#address_label {
+    width: 95%;
+    display: block;
+}
+
+#mail_input {
+    display: block;
+    width: 95%;
+    height: 400px;
+    
+}
+
+#rss_label {
+    width: 90%;
+}
